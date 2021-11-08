@@ -8,6 +8,7 @@
 ### comple options
 ```
 mkdir build
+cd build
 cmake  ..
 ./detector_sample ./data
 ```
